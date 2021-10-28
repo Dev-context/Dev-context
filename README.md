@@ -1,17 +1,18 @@
-
-<h1>Olá Sou Vinicius Oliveira Frasson,</h1>
+<h1>Olá, Sou Vinicius Oliveira Frasson,</h1>
+<h6>Sou apaixonado por tecnlogia, gosto muito de aprender coisas novas</h6>
+<br />
+<ul>
+  <li>Hj trabalho como QA</li>
+  <li>Estou estudando TypeScript com reactJS e NextJs</li>
+</ul>
 <div align="start" style="display: flex">
   <a href="https://github.com/Dev-context">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Dev-context&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  />
-</div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-context&layout=compact)](https://github.com/Dev-context/github-readme-stats)
-
-
-
-<div style="display: inline_block">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Dev-context&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+  
+ <div>
   <h2>Tecnlogias</h2>
   <img
     align="center"
@@ -35,6 +36,20 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   <img
+    alt="NextJS"
+    align="center"
+    height="80"
+    width="80"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+  />
+  <img
+    alt="Redux"
+    align="center"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+  />
+  <img
     align="center"
     alt="HTML"
     height="30"
@@ -55,8 +70,30 @@
     width="80"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
   />
+  <img
+    align="center"
+    alt="Bootstrap"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+  />
+  <img
+    align="center"
+    alt="React"
+    height="140"
+    width="150"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+  />
+  <img
+    align="center"
+    alt="Docker"
+    height="50"
+    width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+  />
 </div>
-<div>
+   <div>
+  <h2>Redes Sociais</h2>
   <div align="start" style="display: flex">
     <a
       href="https://www.linkedin.com/in/vinicius-oliveira-frasson-ba82101a1/"
@@ -65,10 +102,10 @@
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"
     /></a>
-
-    ![Snake animation](https://github.com/Dev-context//blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
+
+
 
  
 
