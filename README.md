@@ -1,6 +1,6 @@
 
 <h1>Olá, Sou Vinicius Oliveira Frasson,</h1>
-<h6>Sou apaixonado por tecnlogia, gosto muito de aprender coisas novas</h6>
+<h6>Sou apaixonado por tecnologia, gosto muito de aprender coisas novas</h6>
 <br />
 <ul>
    <li>Hj trabalho como QA</li>
@@ -13,7 +13,7 @@
          src="https://github-readme-stats.vercel.app/api?username=Dev-context&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-<h2>Tecnlogias</h2>
+<h2>Tecnologias</h2>
 <img
    align="center"
    alt="Js"
