@@ -1,10 +1,10 @@
 
-<h1>Olá, Sou Vinicius Oliveira Frasson,</h1>
-<h6>Sou apaixonado por tecnologia, gosto muito de aprender coisas novas</h6>
+<h1>Hi, I'm Vinicius Frasson,</h1>
+<h6>I love technology and I like to learn new things about it</h6>
 <br />
 <ul>
-   <li>Hj trabalho como QA</li>
-   <li>Estou estudando TypeScript com reactJS e NextJs</li>
+   <li>I working with QA</li>
+
 </ul>
 <div align="start" style="display: flex">
    <a href="https://github.com/Dev-context">
