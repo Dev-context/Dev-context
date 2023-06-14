@@ -54,13 +54,6 @@
 
 <img
    align="center"
-   alt="React"
-   height="140"
-   width="150"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-   />
-<img
-   align="center"
    alt="Docker"
    height="50"
    width="50"
@@ -82,8 +75,7 @@
    width="50"
    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLfTTKRApG4kd5iCzmazTJARxHiwu8DLJEjLCBRniiPedkdKzEdJwufin84_9Lp4-u0I&usqp=CAU"
    />
-   
-   
+     
    <img
    align="center"
    alt="Appium"
