@@ -100,6 +100,23 @@
    src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"
    />
    
+      <img
+   align="center"
+   alt="Selenium"
+   height="50"
+   width="50"
+   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLfTTKRApG4kd5iCzmazTJARxHiwu8DLJEjLCBRniiPedkdKzEdJwufin84_9Lp4-u0I&usqp=CAU"
+   />
+   
+   
+       <img
+   align="center"
+   alt="Appium"
+   height="50"
+   width="50"
+   src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text.png"
+   />
+   
 </div>
 
 <h2>Redes Sociais</h2>
