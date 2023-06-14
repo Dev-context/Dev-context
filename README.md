@@ -28,27 +28,8 @@
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
    />
-<img
-   align="center"
-   alt="React"
-   height="30"
-   width="40"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-   />
-<img
-   alt="NextJS"
-   align="center"
-   height="80"
-   width="80"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
-   />
-<img
-   alt="Redux"
-   align="center"
-   height="30"
-   width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-   />
+
+
 <img
    align="center"
    alt="HTML"
@@ -70,13 +51,7 @@
    width="80"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
    />
-<img
-   align="center"
-   alt="Bootstrap"
-   height="30"
-   width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-   />
+
 <img
    align="center"
    alt="React"
@@ -100,7 +75,7 @@
    src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"
    />
    
-      <img
+   <img
    align="center"
    alt="Selenium"
    height="50"
@@ -109,7 +84,7 @@
    />
    
    
-       <img
+   <img
    align="center"
    alt="Appium"
    height="50"
