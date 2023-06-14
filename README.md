@@ -12,69 +12,71 @@
          height="180em"
          src="https://github-readme-stats.vercel.app/api?username=Dev-context&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-<div style = "background:black">
+<div>
 <h2>Tecnologias</h2>
 <img
    alt="Js"
+   align="center"
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
    />
 <img
    alt="Ts"
+   align="center"
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
    />
-
-
 <img
    alt="HTML"
+   align="center"
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
    />
 <img
    alt="CSS"
+   align="center"
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
    />
 <img
    alt="CSS"
+   align="center"
    height="80"
    width="80"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
    />
-
 <img
    alt="Docker"
+   align="center"
    height="50"
    width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
    />
-   
    <img
    alt="Cypress"
+   align="center"
    height="50"
    width="50"
    src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"
    />
-   
    <img
   alt="Selenium"
+   align="center"
    height="50"
    width="50"
    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLfTTKRApG4kd5iCzmazTJARxHiwu8DLJEjLCBRniiPedkdKzEdJwufin84_9Lp4-u0I&usqp=CAU"
-   />
-     
+   /> 
    <img
    alt="Appium"
+   align="center"
    height="50"
    width="50"
    src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text.png"
-   />
-   
+   />  
 </div>
 
 <h2>Redes Sociais</h2>
