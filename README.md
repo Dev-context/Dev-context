@@ -91,6 +91,15 @@
    width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
    />
+   
+   <img
+   align="center"
+   alt="Cypress"
+   height="50"
+   width="50"
+   src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg](https://www.cypress.io/cypress_logo_social.png)"
+   />
+   
 </div>
 
 <h2>Redes Sociais</h2>
