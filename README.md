@@ -97,7 +97,7 @@
    alt="Cypress"
    height="50"
    width="50"
-   src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg](https://www.cypress.io/cypress_logo_social.png)"
+   src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"
    />
    
 </div>
