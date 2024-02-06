@@ -46,13 +46,6 @@
    width="80"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
    />
-<img
-   alt="Docker"
-   align="center"
-   height="50"
-   width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-   />
    <img
    alt="Cypress"
    align="center"
@@ -74,6 +67,14 @@
    width="50"
    src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text.png"
    />  
+
+   <img
+   alt="PlayWright"
+   align="center"
+   height="50"
+   width="50"
+   src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png"
+   />
 </div>
 
 <h2>Redes Sociais</h2>
