@@ -80,7 +80,7 @@
 <h2>Redes Sociais</h2>
 <div align="start" style="display: flex">
 <a
-   href="www.linkedin.com/in/vinicius-frasson"
+   href="https://www.linkedin.com/in/vinicius-frasson"
    target="_blank"
    ><img
    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
