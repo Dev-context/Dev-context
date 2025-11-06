@@ -80,9 +80,16 @@
    align="center"
    height="50"
    width="50"
-   src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png"
+   src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
    />
 
+   <img
+   alt="c#"
+   align="center"
+   height="50"
+   width="50"
+   src="https://jelvix.com/wp-content/uploads/2021/01/c-uses.png"
+   />
    
 </div>
 
