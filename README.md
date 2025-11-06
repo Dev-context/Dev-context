@@ -1,6 +1,5 @@
 
-<h1>Hi, I'm Vinicius Frasson,</h1>
-<h6>I love technology and I like to learn new things about it</h6>
+
 <br />
 <p>Experienced as QA Engineering Analyst adept in bringing forth expertise in Building and Execute Manual testing and Automation Testing. Equipped with a diverse and promising skill set. Pro cient in various platforms, languages. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</p>
 <div >
