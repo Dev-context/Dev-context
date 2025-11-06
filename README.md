@@ -80,7 +80,7 @@
    align="center"
    height="50"
    width="50"
-   src="[[[https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fniltechedu.com%2Fblog%2Fshop%2Fcourses%2Fcorporate-python%2F&psig=AOvVaw33EF5zQkpqwShEHOHnQJ4q&ust=1762510450483000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDZ6Z6l3ZADFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fpython%2F17802&psig=AOvVaw0EkYmcJ_uj3Hyvws2eesNK&ust=1762510479532000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICgm62l3ZADFQAAAAAdAAAAABAE)](https://images.icon-icons.com/112/PNG/512/python_18894.png)"
+   src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png"
    />
 
    
