@@ -1,8 +1,3 @@
-<div align="center">
-    <a href="https://your-dedicated-portfolio.com" target="_blank">
-        <img src="https://img.shields.io/badge/Full%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Full Portfolio Website" />
-    </a>
-</div>
 
 # <h1>👋 Hello! I'm Vinicius Oliveira Frasson</h1>
 
