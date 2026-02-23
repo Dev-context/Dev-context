@@ -49,10 +49,10 @@
 
 **Highlight your best repositories here!**
 
-* **[Project Name A: E2E Testing with Cypress]**
-    * Focus: Automating the e-commerce checkout flow.
-    * Tech Stack: `Cypress`, `JavaScript`, `Faker.js`.
-    * [🔗 View Code](https://github.com/Dev-context/repo-name-a) | [💡 View Test Report](https://link-to-report.com)
+* **[PlaywrightPro]**
+    * Focus: Automating the e-commerce flow.
+    * Tech Stack: `playwright`, `JavaScript/TypeScript`, `Jenkins`
+    * [🔗 View Code](https://github.com/Dev-context/repo-name-a) 
 
 * **[Project Name B: API Testing with Postman/Newman]**
     * Focus: Validating REST API endpoints using collection runners in CI.
