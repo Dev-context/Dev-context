@@ -52,7 +52,7 @@
 * **[PlaywrightPro]**
     * Focus: Automating the e-commerce flow.
     * Tech Stack: `playwright`, `JavaScript/TypeScript`, `Jenkins`
-    * [🔗 View Code](https://github.com/Dev-context/AutomationacademyPractise) 
+    * [🔗 View Code](https://github.com/Dev-context/AutomationacademyPractise) [🎭 Github actions] (https://github.com/Dev-context/AutomationacademyPractise/actions/workflows/playwright.yml)
 
 * **[Project Name B: API Testing with Postman/Newman]**
     * Focus: Validating REST API endpoints using collection runners in CI.
