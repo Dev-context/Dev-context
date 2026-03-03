@@ -54,15 +54,7 @@
     * Tech Stack: `playwright`, `JavaScript/TypeScript`, `Jenkins`
     * [🔗 View Code](https://github.com/Dev-context/AutomationacademyPractise) | [🎭 Github actions](https://github.com/Dev-context/AutomationacademyPractise/actions/workflows/playwright.yml)
 
-* **[Project Name B: API Testing with Postman/Newman]**
-    * Focus: Validating REST API endpoints using collection runners in CI.
-    * Tech Stack: `Postman`, `JavaScript`, `Jenkins`.
-    * [🔗 View Code](https://github.com/Dev-context/repo-name-b) | [📝 Documentation](https://link-to-documentation.com)
-    
-* **[Project Name C: QA for Secure Spring Boot App]**
-    * Focus: Implementing unit and integration tests for a secure Spring Boot microservice.
-    * Tech Stack: `Java`, `Spring Boot`, `Junit`, `Maven`, `Spring Security`.
-    * [🔗 View Code](https://github.com/Dev-context/repo-name-c)
+
 
 ---
 
